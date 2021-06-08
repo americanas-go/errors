@@ -1,3 +1,4 @@
+// Package errors provides an easy way to annotate errors without losing the original error context.
 package errors
 
 import "fmt"
